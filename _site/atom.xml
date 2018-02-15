@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>The blog of Kayleigh Ryherd</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000"/>
+ <updated>2018-02-15T17:47:38-05:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Kayleigh Ryherd</name>
+   <email>kayleigh.ryherd@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Projects</title>
+   <link href="http://localhost:4000/sidebar/2018/02/15/Projects.html"/>
+   <updated>2018-02-15T00:00:00-05:00</updated>
+   <id>http://localhost:4000/sidebar/2018/02/15/Projects</id>
+   <content type="html">&lt;p&gt;Throughout my PhD, I’ve been involved in a bunch of projects. Here is where I show them off!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CV</title>
+   <link href="http://localhost:4000/sidebar/2018/02/15/CV.html"/>
+   <updated>2018-02-15T00:00:00-05:00</updated>
+   <id>http://localhost:4000/sidebar/2018/02/15/CV</id>
+   <content type="html">&lt;h1 id=&quot;kayleigh-ryherd&quot;&gt;Kayleigh Ryherd&lt;/h1&gt;
+
+&lt;p&gt;kayleigh.ryherd@gmail.com&lt;/p&gt;
+
+&lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;2014-2019 (expected)&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;PhD, Developmental Psychology&lt;/strong&gt;; University of Connecticut (Storrs, CT)
+
+    &lt;p&gt;&lt;em&gt;Dissertation: Exploring the role of language in two systems for categorization&lt;/em&gt;&lt;/p&gt;
+  &lt;/dd&gt;
+  &lt;dt&gt;2014-2016&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;MS, Developmental Psychology&lt;/strong&gt;; University of Connecticut (Storrs, CT)
+
+    &lt;p&gt;&lt;em&gt;Thesis: Word and concept learning in poor comprehenders&lt;/em&gt;&lt;/p&gt;
+  &lt;/dd&gt;
+  &lt;dt&gt;2010-2014&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;BS, Psychology&lt;/strong&gt;, &lt;em&gt;summa cum laude&lt;/em&gt; with Honors; George Washington University (Washington, DC)
+
+    &lt;p&gt;&lt;em&gt;Minors: Speech and Hearing; Logic&lt;/em&gt;&lt;/p&gt;
+  &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&quot;research-experience&quot;&gt;Research Experience&lt;/h2&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;2014-present&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;UConn Graduate Research Associate and NSF IGERT Associate, Program in Language &amp;amp; Plasticity&lt;/strong&gt;
+Mentor: Nicole Landi
+
+    &lt;p&gt;&lt;em&gt;Research focus: Semantic processing, comprehension impairment, learning &amp;amp; consolidation&lt;/em&gt;&lt;/p&gt;
+  &lt;/dd&gt;
+  &lt;dt&gt;2017-2018&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;IBRAIN Research Associate in Neuroimaging, Brain Imaging Research Center&lt;/strong&gt;
+Mentor: Roeland Hancock
+
+    &lt;p&gt;IBRAIN fellows help BIRC users design and implement experimental procedures for fMRI, EEG, tDCS, TMS and other methodologies, assist in recruitment and prepping of participants, provide resources for data analysis, and oversee use of equipment by others.&lt;/p&gt;
+  &lt;/dd&gt;
+  &lt;dt&gt;2012-2014&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;Undergraduate Research Assistant, George Washington University&lt;/strong&gt;
+Mentor: Myeong-Ho Sohn
+
+    &lt;p&gt;&lt;em&gt;Research focus: Working memory load, cognitive control, conflict monitoring&lt;/em&gt;&lt;/p&gt;
+  &lt;/dd&gt;
+  &lt;dt&gt;2013&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;NSF Research Experience for Undergraduates Student, University of Minnesota&lt;/strong&gt;
+Mentor: Benjamin Munson
+
+    &lt;p&gt;&lt;em&gt;Research focus: Gender stereotypes, fricative perception&lt;/em&gt;&lt;/p&gt;
+  &lt;/dd&gt;
+  &lt;dt&gt;2012&lt;/dt&gt;
+  &lt;dd&gt;&lt;strong&gt;Research Assistant, University of Illinois at Urbana-Champaign&lt;/strong&gt;
+Mentor: Kathryn Bock
+
+    &lt;p&gt;&lt;em&gt;Research focus: Sentence planning and word production using eyetracking methods&lt;/em&gt;&lt;/p&gt;
+  &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h2 id=&quot;honors-and-awards&quot;&gt;Honors and Awards&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;2017-2018: IBACS-BIRC Research Assistantship in Neuroimaging&lt;/li&gt;
+  &lt;li&gt;2016: CT Institute for the Brain and Cognitive Sciences Summer Fellowship&lt;/li&gt;
+  &lt;li&gt;2016: UConn IGERT Summer Funding&lt;/li&gt;
+  &lt;li&gt;2015: Honorable Mention, NSF Graduate Research Fellowship Program&lt;/li&gt;
+  &lt;li&gt;2014: Member, Phi Beta Kappa&lt;/li&gt;
+  &lt;li&gt;2010-2014: Member, University Honors Program, George Washington University&lt;/li&gt;
+  &lt;li&gt;2010-2014: Dean’s List, George Washington University, 7/8 semesters&lt;/li&gt;
+  &lt;li&gt;2010-2014: Recipient, Presidential Academic Scholarship, George Washington University&lt;/li&gt;
+  &lt;li&gt;2010-2014: Recipient, National Merit Scholarship&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;publications&quot;&gt;Publications&lt;/h2&gt;
+&lt;p&gt;Landi, N., Malins, J. G., Frost, S. J., Magnuson, J. S., Molfese, P., &lt;strong&gt;Ryherd, K.&lt;/strong&gt;, … Pugh, K. R. (2018). Neural representations for newly learned words are modulated by overnight consolidation, reading skill, and age. &lt;em&gt;Neuropsychologia, 111&lt;/em&gt;, 133–144. &lt;a href=&quot;http://doi.org/10.1016/j.neuropsychologia.2018.01.011&quot;&gt;doi:10.1016/j.neuropsychologia.2018.01.011&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Irwin, J., Avery, T., Brancazio, L., &lt;strong&gt;Ryherd, K.&lt;/strong&gt;, Turcios, J., &amp;amp; Landi, N. (2017). Electrophysiological indices of audiovisual speech perception: beyond the McGurk effect speech in noise. &lt;em&gt;Multisensory Research.&lt;/em&gt; &lt;a href=&quot;http://doi.org/10.1163/22134808-00002580&quot;&gt;doi: 10.1163/22134808-00002580&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Munson, B., &lt;strong&gt;Ryherd, K.&lt;/strong&gt;, &amp;amp; Kemper, S. (2017). Implicit and explicit gender priming in English lingual sibilant fricative perception. &lt;em&gt;Linguistics, 55&lt;/em&gt;(5). 1073-1107. &lt;a href=&quot;https://doi.org/10.1515/ling-2017-0021&quot;&gt;doi: 10.1515/ling-2017-0021&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Landi, N., &amp;amp; &lt;strong&gt;Ryherd, K.&lt;/strong&gt; (2017). Understanding specific reading comprehension deficit: A review. &lt;em&gt;Language and Linguistics Compass, 11&lt;/em&gt;(2), 1–24. &lt;a href=&quot;http://doi.org/10.1111/lnc3.12234&quot;&gt;doi:10.1111/lnc3.12234&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;poster-presentations&quot;&gt;Poster Presentations&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Johns, C., Jahn, A., Van Dyke, D., &amp;amp; Landi, N. &lt;em&gt;Structural brain differences in good and poor comprehenders identified through a regression-based quantitative method.&lt;/em&gt; (November, 2017). Poster presented at the 9th Annual Meeting of the Society for the Neurobiology of Language, Baltimore, MD.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Breen, M., Van Dyke, J., &amp;amp; Landi, N. &lt;em&gt;Prosodic comprehension in specific reading comprehension deficit.&lt;/em&gt; (April 2017). Poster presented at the 8th University of Connecticut Language Festival, Storrs, CT.&lt;/p&gt;
+
+&lt;p&gt;Gutierrez, A., Timakondu, N., &lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Richie, R., Coppola, M., Breen, M., …, Landi, N. (April 2017). &lt;em&gt;Prosodic boundary perception and reading comprehension ability: an ERP study.&lt;/em&gt; (April 2017) Poster presented at the 8th University of Connecticut Language Festival, Storrs, CT.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Johns, C., Van Dyke, J., &amp;amp; Landi, N. (April 2016). &lt;em&gt;Definition of poor comprehenders.&lt;/em&gt; Poster presented at the 7th University of Connecticut Language Festival, Storrs, CT.&lt;/p&gt;
+
+&lt;p&gt;Khan, S., Patel, V., Vhora, M., &lt;strong&gt;Ryherd,K.&lt;/strong&gt;, &amp;amp; Landi, N. (April 2016). &lt;em&gt;Characterizing novel concept learning in poor comprehenders.&lt;/em&gt; Poster presented at the 7th University of Connecticut Language Festival, Storrs, CT.&lt;/p&gt;
+
+&lt;p&gt;Lasto, C., Halas, L., Bell., S., Puglisi, C., &lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Brancazio, L., Turcios, J., Avery, T., Irwin, J., &amp;amp; Landi, N. (April 2016). &lt;em&gt;Neural correlates of audio-visual speech processing: implications for children diagnosed with autism spectrum disorder.&lt;/em&gt; Poster presented at the 7th University of Connecticut Language Festival, Storrs, CT.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Hung, Y-H., Baron, E., Jasinska, K., Mencl, W.E., &amp;amp; Landi, N. (April 2016). &lt;em&gt;Individual differences in activation and functional connectivity across modality and processing level.&lt;/em&gt; Poster presented at the Twenty-Third Annual Meeting of the Cognitive Neuroscience Society, New York.&lt;/p&gt;
+
+&lt;p&gt;Mencl, W. E., Frost, S., Rothman, D., Hoeft, F., &lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Landi, N., Molfese, P., Grigorenko, E., Jacobsen, L., Seidenberg, M., Fulbright, R., &amp;amp; Pugh, K.R. (October 2015). &lt;em&gt;Glutamate and Choline Levels Predict Individual Differences in Reading Ability.&lt;/em&gt; Poster presented at the Seventh Annual Meeting of the Society for the Neurobiology of Language, Chicago.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Baron, E., Jasinska, K., Mencl, W.E., &amp;amp; Landi, N. (October 2015). &lt;em&gt;Reading comprehension ability and semantic activation to single words and discourse: an fMRI -partial least squares analysis.&lt;/em&gt; Poster presented at the Seventh Annual Meeting of the Society for the Neurobiology of Language, Chicago.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Baron, E., Jasinska, K., Mencl, W.E., &amp;amp; Landi, N. (May 2015). &lt;em&gt;Neural activation of semantic networks contributes to reading comprehension skill.&lt;/em&gt; Poster presented at the 27th Association for Psychological Science Annual Convention, NYC.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Baron, E., Jasinska, K., Mencl, W.E., &amp;amp; Landi, N. (April 2015). &lt;em&gt;Written and spoken language: An fMRI partial least squares analysis.&lt;/em&gt; Poster presented at the 6th University of Connecticut Language Festival, Storrs, CT.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Magnuson, J., &amp;amp; Landi, N. (April 2015). &lt;em&gt;A novel paradigm for examining semantic learning in poor comprehenders.&lt;/em&gt; Poster presented at the 6th University of Connecticut Language Festival, Storrs, CT.&lt;/p&gt;
+
+&lt;p&gt;Baron, E., &lt;strong&gt;Ryherd,K.&lt;/strong&gt;, Jasinska, K., Molfese, P., Mencl, W. E., Landi, N. (February 2015). &lt;em&gt;Neurobiological representations of semantic processing during online passage comprehension.&lt;/em&gt; Poster presented at the 2015 Northeast Under/graduate Research Organization for Neuroscience at Quinnipiac University, Hamden, CT.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ryherd,K.&lt;/strong&gt;, &amp;amp; Munson, B. (August 2013). &lt;em&gt;Gender and fricative perception in an /s/ - /ʃ/ task.&lt;/em&gt; Poster presented at the 12th Annual Poster Symposium at the Research Experience for Undergraduates Program at the University of Minnesota, Minneapolis, MN.&lt;/p&gt;
+
+&lt;h2 id=&quot;talks&quot;&gt;Talks&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Ryherd, K.&lt;/strong&gt; &amp;amp; Landi, N. (July 2017). &lt;em&gt;Characterizing novel word and concept learning in poor comprehenders.&lt;/em&gt; Paper presented at the Twenty-Fourth Annual Meeting of the Society for the Scientific Study of Reading (SSSR), Halifax, Nova Scotia.&lt;/p&gt;
+
+&lt;h2 id=&quot;teaching-experience&quot;&gt;Teaching Experience&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;2017: Lab Section Instructor, Principles of Research in Psychology&lt;/li&gt;
+  &lt;li&gt;2016-2017: Discussion Leader, General Psychology II&lt;/li&gt;
+  &lt;li&gt;2016-2018: Teaching Assistant, Developmental Psychology&lt;/li&gt;
+  &lt;li&gt;2015: Honors Lab Section Instructor, General Psychology I&lt;/li&gt;
+  &lt;li&gt;2015: Teaching Assistant, Developmental Lab in Electrophysiology&lt;/li&gt;
+  &lt;li&gt;2014: Lab Section Instructor, General Psychology I&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mentoring-experience&quot;&gt;Mentoring Experience&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;2014-present:  Mentored 16 undergraduate research assistants&lt;/li&gt;
+  &lt;li&gt;2015: Coral Ortiz, Yale Summer Science Research Institute&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;professional-affiliations&quot;&gt;Professional Affiliations&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Society for the Scientific Study of Reading&lt;/li&gt;
+  &lt;li&gt;Society for the Neurobiology of Language&lt;/li&gt;
+  &lt;li&gt;Cognitive Neuroscience Society&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;service&quot;&gt;Service&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;UConn IGERT Interior Design Committee&lt;/li&gt;
+  &lt;li&gt;UConn IGERT Open House Committee&lt;/li&gt;
+  &lt;li&gt;UConn IGERT J-Term Committee&lt;/li&gt;
+  &lt;li&gt;UConn Language Festival Committee&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Statistics&lt;/strong&gt;: Multivariate and Univariate ANOVA and Regression, Linear Mixed Effects Modeling, Partial Least Squares (PLS)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming&lt;/strong&gt;: R, Python, SQL, Shell&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Software&lt;/strong&gt;: E-Prime, AFNI, NetStation, Eye-Link, WordPress&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
