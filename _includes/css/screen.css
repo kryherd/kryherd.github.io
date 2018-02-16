@@ -16,6 +16,7 @@ body {
   border-top: 7px solid {{ site.data.theme.highlight_color }};
 }
 
+
 h1, h2, h3, h4, h5, h6 {
   color: #181818;
   font-family: "open sans", sans-serif;
@@ -70,6 +71,24 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+  padding-right: 15px;
+  width: 50%
+}
+
+.image-carat {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+  padding-right: 15px;
+  width: 30%
 }
 
 ul.posts {
@@ -265,3 +284,5 @@ sup {
   vertical-align: super;
   font-size: smaller;
 }
+
+
