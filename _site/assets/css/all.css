@@ -664,6 +664,13 @@ img {
   width: 30%
 }
 
+.image-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%
+}
+
 ul.posts {
   margin-top: 0;
   list-style-type: none;
