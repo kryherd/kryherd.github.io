@@ -98,6 +98,15 @@ img {
   width: 75%
 }
 
+.image-UPC {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+  padding-right: 15px;
+  width: 40%
+}
+
 ul.posts {
   margin-top: 0;
   list-style-type: none;
