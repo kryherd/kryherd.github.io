@@ -1,7 +1,6 @@
 ---
 title: "CARAT"
 layout: post
-date: 2018-9-25 12:06
 tag: ibrain
 image: /assets/images/CARAT.png
 headerImage: false
