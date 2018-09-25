@@ -3,8 +3,8 @@ title: "CARAT"
 layout: post
 date: 2018-9-25 12:06
 tag: ibrain
-image: assets/images/CARAT.png
-headerImage: true
+image: /assets/images/CARAT.png
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "CARAT - an IBRAIN project"
@@ -13,7 +13,10 @@ author: kryherd
 externalLink: false
 ---
 
-CARAT is a study looking at the neural bases of facial emotion perception, led by [Ross Buck](https://comm.uconn.edu/faculty/buck/T).  
+<span style="display:block;text-align:center"> ![Profile Image](/assets/images/CARAT.png)</span>
+
+
+CARAT is a study looking at the neural bases of facial emotion perception, led by [Ross Buck](https://comm.uconn.edu/faculty/buck/).  
 
 As an IBRAIN fellow, I was the fMRI consultant for this project. I used Python and shell scripting to develop pipelines for optimization of the experimental design and preprocessing/analysis of the data. I helped coordinate the simultaneous eye-tracking and fMRI data.
 

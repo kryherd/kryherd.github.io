@@ -2,33 +2,17 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image](/assets/images/profile.png)
 
-<p>TEST</p>
+## Welcome!
+	
+My name is **Kayleigh Ryherd**. I'm currently a graduate student working with [Dr. Nicole Landi](https://psych.uconn.edu/faculty/nicole-landi/) in the [Developmental](https://devpsych.uconn.edu/) division of the [Department of Psychological Sciences](https://psych.uconn.edu/) at the [University of Connecticut](https://uconn.edu/).
 
-<h2>Skills</h2>
+Broadly, my research centers around how the brain understands language. My dissertation focuses on learning categories might be affected by our language ability. For a more in-depth look at my research background, check out my [CV](/CV/index.html).
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+I am an Associate of the [Neurobiology of Language](https://nbl.cogsci.uconn.edu/) program at UCONN. I also was a 2016 [CT Institute for the Brain and Cognitive Sciences (IBACS)](https://ibacs.uconn.edu/) [Summer Graduate Fellow](https://ibacs.uconn.edu/ibacs-summer-research-fellows) and a 2017-2018 IBACS [Research Assistant in Neuroimaging](https://birc.uconn.edu/ibrain-team/). 
 
-<h2>Projects</h2>
+I also enjoy playing with data. Check out the [Projects](/projects/index.html) page for some of the projects I've worked on.
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+In my spare time, I am passionate about cooking (especially [meal prep](https://mealprepchallenge.wordpress.com)), comedy, and my adorable cat.
+
