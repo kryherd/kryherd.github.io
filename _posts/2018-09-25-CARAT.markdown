@@ -12,10 +12,18 @@ author: kryherd
 externalLink: false
 ---
 
-<span style="display:block;text-align:center"> ![Profile Image](/assets/images/CARAT.png)</span>
+<span style="display:block;text-align:center"> <img src="/assets/images/CARAT.png" alt="CARAT Profile Image" width="250"/></span>
 
+
+**Time Period:** Fall 2017 - Spring 2018
+
+**Languages Used:** Python, Shell
 
 CARAT is a study looking at the neural bases of facial emotion perception, led by [Ross Buck](https://comm.uconn.edu/faculty/buck/).  
 
-As an IBRAIN fellow, I was the fMRI consultant for this project. I used Python and shell scripting to develop pipelines for optimization of the experimental design and preprocessing/analysis of the data. I helped coordinate the simultaneous eye-tracking and fMRI data.
+I created a processing pipeline for functional neuroimaging data, including image processing using [AFNI](https://afni.nimh.nih.gov/), data reshaping and cleaning in Python, and batch processing with shell scripting.
+
+### Output
+
+You can view code and extensive documentation for this project on [Github](https://github.com/kryherd/CARAT).
 
